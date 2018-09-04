@@ -13,7 +13,9 @@ tags:
 ---
 # zookeeper分布式锁
 
-# 1 分布式锁的概念与数据最终不一致性的场景
+#分布式锁的概念与数据最终不一致性的场景
+
+
 
 ![](https://ws3.sinaimg.cn/large/0069RVTdgy1fuxlslheajj31kw0k17lr.jpg)
 
