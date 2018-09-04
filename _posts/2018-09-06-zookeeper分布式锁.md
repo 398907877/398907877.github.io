@@ -4,7 +4,7 @@ title:      zookeeper分布式锁
 subtitle:   zookeeper分布式锁
 date:       2018-09-06
 author:     wujiajun
-header-img: img/tag-bg-o.jpg
+header-img: img/2018-09-06-zookeeper分布式锁.png
 catalog: true
 tags:
     - wujiajun
