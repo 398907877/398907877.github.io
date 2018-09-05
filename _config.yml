@@ -11,7 +11,7 @@ github_repo: "https://github.com/398907877/398907877.github.io.git" # you code r
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "😘THIS IS WUJIAJUN BLOG.YEP~Ss~"
+sidebar-about-description: "😘WUJIAJUN BLOG.YEP~Ss~"
 sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
