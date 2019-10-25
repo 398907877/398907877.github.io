@@ -12,7 +12,7 @@ tags:
     - Git
 ---
 
-> 本文发布于 [BY Blog](http://qiubaiying.github.io)、[简书](http://www.jianshu.com/p/d2d98298b1b8) 转载请保留链接
+> 本文发布于 [BY Blog](http://wujiajun.github.io)、[简书](http://www.jianshu.com/p/d2d98298b1b8) 转载请保留链接
 
 # 前言
 
@@ -66,7 +66,7 @@ pod搜索 Specs 文件夹中的框架，输出框架信息
 我们在 CocoaPods 发布我们的框架时，就是要在 `master` 仓库中添加我们的仓库描述信息，然后push到远程仓库中。不过这个过程不用我们手动去操作，只需要通过`pod`命令进行操作即可。
 
 
-下面我们将一步步把我封装的这个简单的TextFiled控件 [BYPhoneNumTF](https://github.com/qiubaiying/BYPhoneNumTF) 上传到 Cocoapods 公有仓库中。
+下面我们将一步步把我封装的这个简单的TextFiled控件 [BYPhoneNumTF](https://github.com/wujiajun/BYPhoneNumTF) 上传到 Cocoapods 公有仓库中。
 
 # 正文
 
@@ -133,8 +133,8 @@ Pod::Spec.new do |s|
   s.license      = "MIT"          # 开源证书
   s.summary      = "A delightful TextField of PhoneNumber" # 项目简介
 
-  s.homepage     = "https://github.com/qiubaiying/BYPhoneNumTF" # 你的主页
-  s.source       = { :git => "https://github.com/qiubaiying/BYPhoneNumTF.git", :tag => "#{s.version}" }#你的仓库地址，不能用SSH地址
+  s.homepage     = "https://github.com/wujiajun/BYPhoneNumTF" # 你的主页
+  s.source       = { :git => "https://github.com/wujiajun/BYPhoneNumTF.git", :tag => "#{s.version}" }#你的仓库地址，不能用SSH地址
   s.source_files = "BYPhoneNumTF/*.{h,m}" # 你代码的位置， BYPhoneNumTF/*.{h,m} 表示 BYPhoneNumTF 文件夹下所有的.h和.m文件
   s.requires_arc = true # 是否启用ARC
   s.platform     = :ios, "7.0" #平台及支持的最低版本
@@ -142,8 +142,8 @@ Pod::Spec.new do |s|
   # s.dependency   = "AFNetworking" # 依赖库
   
   # User
-  s.author             = { "BY" => "qiubaiyingios@163.com" } # 作者信息
-  s.social_media_url   = "http://qiubaiying.github.io" # 个人主页
+  s.author             = { "BY" => "wujiajunios@163.com" } # 作者信息
+  s.social_media_url   = "http://wujiajun.github.io" # 个人主页
 
 end
 ```
@@ -160,7 +160,7 @@ end
 但是很多情况没这么顺利，比如:
 
 	 -> BYPhoneNumTF (1.0.0)
-	    - WARN  | url: There was a problem validating the URL http://qiubaiying.github.io.
+	    - WARN  | url: There was a problem validating the URL http://wujiajun.github.io.
 	
 	[!] BYPhoneNumTF did not pass validation, due to 1 warning (but you can use `--allow-warnings` to ignore it) and all results apply only to public specs, but you can use `--private` to ignore them if linting the specification for a private pod.
 	[!] The validator for Swift projects uses Swift 3.0 by default, if you are using a different version of swift you can use a `.swift-version` file to set the version for your Pod. For example to use Swift 2.3, run: 
@@ -236,8 +236,8 @@ end
 	-> BYPhoneNumTF (1.0.0)
 	   A delightful TextField of PhoneNumber
 	   pod 'BYPhoneNumTF', '~> 1.0.0'
-	   - Homepage: https://github.com/qiubaiying/BYPhoneNumTF
-	   - Source:   https://github.com/qiubaiying/BYPhoneNumTF.git
+	   - Homepage: https://github.com/wujiajun/BYPhoneNumTF
+	   - Source:   https://github.com/wujiajun/BYPhoneNumTF.git
 	   - Versions: 1.0.0, 0.0.1 [BYPhoneNumTF repo]
 	(END)
 

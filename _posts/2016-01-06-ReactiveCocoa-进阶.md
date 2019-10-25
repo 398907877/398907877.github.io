@@ -14,7 +14,7 @@ tags:
 ---
 # 前言
 
->在[上篇文章](http://qiubaiying.github.io/2016/12/26/ReactiveCocoa-基础/)中介绍了**ReactiveCocoa**的基础知识,接下来我们来深入介绍**ReactiveCocoa**及其在**MVVM**中的用法。
+>在[上篇文章](http://wujiajun.github.io/2016/12/26/ReactiveCocoa-基础/)中介绍了**ReactiveCocoa**的基础知识,接下来我们来深入介绍**ReactiveCocoa**及其在**MVVM**中的用法。
 
 
 ![ReactiveCocoa进阶思维导图](https://ww3.sinaimg.cn/large/006y8lVagw1fbgye3re5xj30je0iomz8.jpg)
@@ -1515,4 +1515,4 @@ end
 
 ```
 
->最后附上GitHub：<https://github.com/qiubaiying/ReactiveCocoa_Demo>
+>最后附上GitHub：<https://github.com/wujiajun/ReactiveCocoa_Demo>

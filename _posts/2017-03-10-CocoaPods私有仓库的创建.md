@@ -12,9 +12,9 @@ tags:
     - Git
 ---
 
-> 本文发布于 [BY Blog](http://qiubaiying.github.io)、[简书](http://www.jianshu.com/p/d2d98298b1b8) 转载请保留链接
+> 本文发布于 [BY Blog](http://wujiajun.github.io)、[简书](http://www.jianshu.com/p/d2d98298b1b8) 转载请保留链接
 > 
-> 上一篇文章 [《CocoaPods公有仓库的创建》](http://qiubaiying.top/2017/03/08/CocoaPods公有仓库的创建/)
+> 上一篇文章 [《CocoaPods公有仓库的创建》](http://wujiajun.top/2017/03/08/CocoaPods公有仓库的创建/)
 
 # 前言
 
@@ -26,7 +26,7 @@ tags:
 
 虽然也能用，但是和CocoaPods本身的结构设计就不相符。
 
-在上一篇[《CocoaPods公有仓库的创建》](http://qiubaiying.top/2017/03/08/CocoaPods公有仓库的创建/)中我们了解到，`master` 目录中只存放 代码库 的描述文件，而不是存放代码。就像这样
+在上一篇[《CocoaPods公有仓库的创建》](http://wujiajun.top/2017/03/08/CocoaPods公有仓库的创建/)中我们了解到，`master` 目录中只存放 代码库 的描述文件，而不是存放代码。就像这样
 
 ![](https://ww4.sinaimg.cn/large/006tKfTcgy1fdgf4l54rxj30ya09ujst.jpg)
 
@@ -101,8 +101,8 @@ Pod::Spec.new do |s|
   # s.dependency   = "AFNetworking" # 依赖库
   
   # User
-  s.author             = { "BY" => "qiubaiyingios@163.com" } # 作者信息
-  s.social_media_url   = "http://qiubaiying.github.io" # 个人主页
+  s.author             = { "BY" => "wujiajunios@163.com" } # 作者信息
+  s.social_media_url   = "http://wujiajun.github.io" # 个人主页
 
 end
 ```
@@ -221,7 +221,7 @@ end
 
 # 结语
 
-通过 [《CocoaPods私有仓库的创建》](http://qiubaiying.top/2017-03-10-CocoaPods私有仓库的创建/) 和 [《CocoaPods公有仓库的创建](http://qiubaiying.top/2017/03/08/CocoaPods公有仓库的创建/)》这两篇文章，相信大家对CocoaPods的工作原理都有了更深层次的了解。
+通过 [《CocoaPods私有仓库的创建》](http://wujiajun.top/2017-03-10-CocoaPods私有仓库的创建/) 和 [《CocoaPods公有仓库的创建](http://wujiajun.top/2017/03/08/CocoaPods公有仓库的创建/)》这两篇文章，相信大家对CocoaPods的工作原理都有了更深层次的了解。
 
 在写博客和和创建的过程中，踩了不少的坑（😀前人教程留下的），很多的东西只有自己操作完才能真正的领会。
 
