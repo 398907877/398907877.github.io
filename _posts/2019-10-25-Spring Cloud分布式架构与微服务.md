@@ -63,7 +63,20 @@ tags:
 ├─8-构建“会员管理”微服务  
 ├─9-部署注册中心
 
-[0]: data/attachment/forum/201910/12/110720e00ypvez3elvv2g2.png
-[1]: https://www.lthack.com/forum.php?mod=attachment&aid=MTMyMTl8ZGFlNmM1MzB8MTU3MTk4OTYzN3w0MDMwOHw0OTc2Ng%3D%3D¬humb=yes
-[2]: data/attachment/forum/201910/12/110720fw0bzjd3ita00ujt.png
-[3]: https://www.lthack.com/forum.php?mod=attachment&aid=MTMyMjB8YTlhYmMyZGN8MTU3MTk4OTYzN3w0MDMwOHw0OTc2Ng%3D%3D¬humb=yes
+
+
+-------
+
+-------
+
+-------
+
+-------
+
+
+> 
+> 链接: https://pan.baidu.com/s/1X-BlIPx5R30ECK-pUuCzKg 
+> 提取码: r8fm 
+
+
+
