@@ -4,7 +4,7 @@ title:      Spring Cloud分布式架构与微服务
 subtitle:   Spring Cloud分布式架构与微服务
 date:       2019-10-25
 author:     吴佳俊
-header-img: img/2018-09-10-支付系统-设计.jpg
+header-img: img/2019-10-25-Spring Cloud分布式架构与微服务.png
 catalog: true
 tags:
     - wujiajun
