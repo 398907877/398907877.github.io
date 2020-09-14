@@ -62,8 +62,8 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: 241719f42f043b145160                            #生成的clientID
-  clientSecret: 4f781cc2c677387a94b5a1478c49bab3d770daed    #生成的clientSecret
+  clientID: 03161135b36a3826e3f7                            #生成的clientID
+  clientSecret: d4bcfb7ca130304660e4fdeaff00489797f491a8    #生成的clientSecret
   repo: 398907877.github.io    #仓库名称
   owner: 398907877    #github用户名
   admin: 398907877
@@ -78,7 +78,7 @@ ba_track_id: b50bf2b12b5338a1845e33832976fd68
 
 # Google Analytics
 ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
-ga_domain: wujiajun.top               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+ga_domain: 398907877.github.io               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
 
