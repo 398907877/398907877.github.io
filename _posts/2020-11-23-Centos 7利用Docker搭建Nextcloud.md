@@ -4,7 +4,7 @@ title:      Centos 7利用Docker搭建Nextcloud
 subtitle:   Centos 7利用Docker搭建Nextcloud
 date:       2020-11-23
 author:     吴佳俊
-header-img: img/post-bg-BJJ.jpg
+header-img: img/Nextcloud_Logo.svg.png
 catalog: true
 tags:
     - wujiajun
