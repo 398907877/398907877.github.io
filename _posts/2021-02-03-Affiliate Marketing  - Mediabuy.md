@@ -4,7 +4,7 @@ title:      Affiliate Marketing    |||   Mediabuy
 subtitle:   Affiliate Marketing    |||   Mediabuy
 date:       2021-02-03
 author:     吴佳俊 spary wujiajun junzero
-header-img: img/post-bg-BJJ.jpg
+header-img: img/post-bg-keybord.jpg
 catalog: true
 tags:
     - wujiajun
