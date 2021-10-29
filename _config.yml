@@ -4,14 +4,14 @@ SEOTitle: 主页  @ 吴佳俊 |福建|福州|
 header-img: img/post-bg-desk.jpg
 email: 398907877@qq.com
 description: "一些关于我的."
-keyword: "imSpary, wujiajun, 吴佳俊, jun, java, mac, Apple, iPhone"
+keyword: "imSpary, wujiajun, 吴佳俊, jun, money, mac, Apple, iPhone"
 url: "http://398907877.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/398907877/398907877.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "😘WUJIAJUN BLOG.YEP~Ss~"
+sidebar-about-description: "😘WUJIAJUN BLOG.YEP~Ss~2021"
 sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
@@ -19,7 +19,7 @@ sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's us
 # SNS settings
 RSS: false
 # weibo_username:     wujiajun
-zhihu_username:     wujiajun
+zhihu_username:     wu-jia-jun-95
 github_username:    398907877
 facebook_username:  wujiajun.qiu.7
 jianshu_username:   wujiajun
